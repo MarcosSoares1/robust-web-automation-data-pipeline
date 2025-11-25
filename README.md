@@ -108,13 +108,13 @@ Crie um arquivo .env baseado em .env.example:
 
 PORTAL_URL=https://portal-financeiro-confidencial.com/login
 DRIVER_PATH=C:\Drivers\msedgedriver.exe
-SELECTORS_FILE=selectors.json
+SELECTORS_FILE=selectors_example.json
 STREAMING_OUTPUT_PATH=./dados/saida_streaming.txt
 ```
 
 ### 6.3 Seletores
 
-O arquivo selectors.json contém identificadores genéricos do portal.
+O arquivo selectors_example.json contém identificadores genéricos do portal.
 Exemplo:
 
 .json
