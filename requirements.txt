@@ -1,0 +1,5 @@
+customtkinter>=5.2,<6
+pandas>=2.2,<3
+openpyxl>=3.1,<4
+selenium>=4.23,<5
+pyinstaller>=6.6,<7
