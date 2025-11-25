@@ -1,3 +1,0 @@
-cpf;status;mensagem
-00000000191;ok;extração concluída
-00000000285;erro;erro: ExemploDeErro
