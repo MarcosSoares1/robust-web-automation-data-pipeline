@@ -1,0 +1,10 @@
+{
+  "campo_usuario": "usuarioInput",
+  "campo_senha": "senhaInput",
+  "botao_entrar": "btnLogin",
+  "menu_cadastro": "menuCadastro",
+  "menu_proposta": "menuConsultaProposta",
+  "campo_cpf": "inputCPF",
+  "grid_resultados": "tabelaResultados",
+  "botao_consultar": "btnConsultar"
+}
